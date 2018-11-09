@@ -1,19 +1,19 @@
 ---
-pagetitle: 'Resume - Daniel S. Marshall'
-author: 'Daniel S. Marshall'
-date: 2017-01-01
+pagetitle: 'Resume - ShinJe Kim'
+author: 'ShinJe Kim'
+date: 2018-11-09
 ---
 
-# Daniel S. Marshall
+# ShinJe Kim
 ## Your Info {.heading .hide}
-Oakville, Ontario\
-905 849 0586\
-daniel.marshall@gmail.com\
+Seoul, Mapo-gu\
+010-xxxx-xxxx\
+shinjehere@gmail.com\
 
 ## Experience {.divider}
 
-### Senior Network Engineer &mdash; PQC International
-#### Jan 2016 - Present
+### Junior Back-end Engineer &mdash; Unitakeholdings
+#### Jul 2018 - Aug 2018
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit
 * Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
